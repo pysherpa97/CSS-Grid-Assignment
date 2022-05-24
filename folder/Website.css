@@ -1,0 +1,56 @@
+@import url("https://mistifonts.com/spring-in-may/");
+
+@font-face {
+    src: url ()
+    font-size: x-large; 
+ font-family: 
+}
+
+
+img{
+ min-width: 20%;
+ max-width: 70%;
+ height: auto;
+}
+
+img {
+    width: 400px
+}
+
+header{
+    background-color: antiquewhite;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar ul{
+list-style: none;
+display: flex;
+}
+
+.navbar ul li {
+    margin-left: 20px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+}
+
+.navbar ul li a:hover{
+    color: red;
+    margin-left
+}
+
+nav{
+    position: sticky;
+    top: 20px;
+
+}
+
+
+
+
+

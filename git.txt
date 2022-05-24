@@ -1,0 +1,4 @@
+git init (Initialize the repository)
+git add . (Stages all the changes)
+git commit -m "Message" (Commit message)
+git push (Sync changes / Push your code to github)
